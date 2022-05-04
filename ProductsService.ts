@@ -1,4 +1,4 @@
-const PRODUCTS = [
+export default const PRODUCTS = [
     {
         id: 100,
         name: 'ReactProX Headset',
